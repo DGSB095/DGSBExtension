@@ -1,0 +1,10 @@
+[package]
+name = "DGSBExtension"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colors-transform = "0.2.11"
+image = "0.25.5"
+thiserror = "2.0.5"
+png = "0.17.15"
